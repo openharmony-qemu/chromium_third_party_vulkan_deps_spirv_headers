@@ -1,11 +1,11 @@
 [
     {
-        "Name": "SPIRV-Headers",                   # 上游开源软件名全称
-        "License": "MIT",      # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",    # 许可证所在文件路径
+        "Name": "SPIRV-Headers",                   
+        "License": "MIT",     
+        "License File": "LICENSE",    
         "Version Number": "b8047fbe45f426f5918fadc67e8408f5b108c3c9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers@b8047fbe45f426f5918fadc67e8408f5b108c3c9",   # 上游软件包发布地址
-        "Description": "第三方软件vulkan-deps/spirv-headers"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers@b8047fbe45f426f5918fadc67e8408f5b108c3c9", 
+        "Description": "第三方软件vulkan-deps/spirv-headers"         
     }
 ]
