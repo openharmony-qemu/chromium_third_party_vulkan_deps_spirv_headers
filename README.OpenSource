@@ -1,7 +1,7 @@
 [
     {
         "Name": "SPIRV-Headers",                   # 上游开源软件名全称
-        "License": "webressources",      # 上游开源软件中包含的许可证信息
+        "License": "MIT",      # 上游开源软件中包含的许可证信息
         "License File": "LICENSE",    # 许可证所在文件路径
         "Version Number": "b8047fbe45f426f5918fadc67e8408f5b108c3c9",
         "Owner": "jinchanggang@huawei.com",
