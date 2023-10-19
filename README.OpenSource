@@ -1,11 +1,11 @@
 [
     {
-        "Name": "SPIRV-Headers",                   
-        "License": "MIT",     
-        "License File": "LICENSE",    
+        "Name": "SPIRV-Headers",
+        "License": "MIT",
+        "License File": "LICENSE",
         "Version Number": "b8047fbe45f426f5918fadc67e8408f5b108c3c9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers@b8047fbe45f426f5918fadc67e8408f5b108c3c9", 
-        "Description": "第三方软件vulkan-deps/spirv-headers"         
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/SPIRV-Headers@b8047fbe45f426f5918fadc67e8408f5b108c3c9",
+        "Description": "第三方软件vulkan-deps/spirv-headers，提供了 SPIR-V Registry 的头文件。"
     }
 ]
